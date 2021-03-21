@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.emu.comunda"
+    },
+    "jhipsterVersion": "6.10.5",
+    "applicationType": "microservice",
+    "baseName": "camundaMicroService",
+    "packageName": "com.emu.comunda",
+    "packageFolder": "com/emu/comunda",
+    "serverPort": "8087",
+    "authenticationType": "oauth2",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "consul",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ZTZmM2RmZDc2NjhhZDg0NGRiYWY5NTA4MWVlNzBkNGNjN2Y4NGE0Y2JhMzY5ZmRjM2Q5NzY2MTNhYTAxZmJlYTNmZWEzOTJlMWYxNTg3NmZmMDk0N2MyOWFlMWVhNjE2OWE2ZDI2YzYzMmRiZTIxMDA5ZmE4ODc4N2I3NzEzMDI=",
+    "embeddableLaunchScript": false,
+    "creationTimestamp": 1615894258823,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "blueprints": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
